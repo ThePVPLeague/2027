@@ -5,7 +5,7 @@
 const rounds = {
 
     round1:[
-        ["Galactus7", false, "Player2", false],
+        ["Galactus7", false, "Bluuxy", false],
         ["Player3", false, "Player4", false],
         ["Player5", false, "Player6", false],
         ["Player7", false, "_7xr", false],
