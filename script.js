@@ -9,7 +9,7 @@ const rounds = {
         ["Player3", false, "Player4", false],
         ["Player5", false, "Player6", false],
         ["Player7", false, "_7xr", false],
-        ["Player9", false, "Player10", false],
+        ["SxyroX_", false, "Player10", false],
         ["Player11", false, "Player12", false],
         ["Player13", false, "Player14", false],
         ["Player15", false, "Player16", false]
