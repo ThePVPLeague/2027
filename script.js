@@ -12,7 +12,7 @@ const rounds = {
         ["SxyroX_", false, "Player10", false],
         ["Player11", false, "Player12", false],
         ["Player13", false, "Player14", false],
-        ["Player15", false, "Player16", false]
+        ["Warsky", false, "Player16", false]
     ],
 
     quarter:[
